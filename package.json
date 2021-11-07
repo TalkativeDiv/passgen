@@ -1,11 +1,14 @@
 {
-  "name": "passgen",
+  "name": "@talkativediv/passgen",
   "version": "1.0.0",
   "description": "simple password generator",
   "main": "index.js",
   "preferGlobal": true,
   "bin": "./index.js",
   "type": "module",
+  "publishConfig": {
+    "@talkativediv:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
