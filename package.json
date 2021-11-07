@@ -1,0 +1,23 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "simple password generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Password",
+    "Generator"
+  ],
+  "author": "Abhirath Agasanakoppa",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^3.0.0",
+    "commander": "^8.3.0"
+  }
+}
