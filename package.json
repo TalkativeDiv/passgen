@@ -6,6 +6,10 @@
   "preferGlobal": true,
   "bin": "./index.js",
   "type": "module",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/TalkativeDiv/passgen.git"
+  },
   "publishConfig": {
     "@talkativediv:registry": "https://npm.pkg.github.com"
   },
