@@ -79,8 +79,6 @@ There are many ways to generate a password, but none suited my needs without cos
 Of Course, even a secure password can be breached, but the chances of that are basiclly one in a million.
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 These are the packages and languages that power this app
@@ -88,10 +86,6 @@ These are the packages and languages that power this app
 - [Chalk](https://www.npmjs.com/package/chalk)
 - [Clipboardy](https://www.npmjs.com/package/clipboardy)
 - [Commander](https://www.npmjs.com/package/commander)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
